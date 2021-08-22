@@ -1,5 +1,7 @@
+
+
 <h1 align="center">Hi 👋, I'm Vijay Singh</h1>
-<h3 align="center">A passionate web developer from India. I have been working extensively on Angular, JavaScript, Typescript, HTML, CSS. I have good analytical skills and I am recognized as a great problem solver within my project team. Looking forward to contribute to the Dev community as much I can.</h3>
+<h3 align="center">A passionate web developer from India. I have been working extensively on Angular, JavaScript, Typescript, HTML, CSS. I have good analytical skills and I am recognized as a great problem solver within my project team. Looking forward to contribute to the Dev community as much as I can.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaymsit88&label=Profile%20views&color=0e75b6&style=flat" alt="vijaymsit88" /> </p>
 
