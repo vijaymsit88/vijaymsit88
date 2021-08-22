@@ -1,4 +1,4 @@
-<img src="https://github.com/vijaymsit88/vijaymsit88/blob/main/Matrix_Gif.gif" width="1200" height="200" />
+<img src="https://github.com/vijaymsit88/vijaymsit88/blob/main/FBanner.png" width="1200" height="300" />
 
 <h1 align="center">Hi 👋, I'm Vijay Singh</h1>
 <h3 align="center">A passionate web developer from India. I have been working extensively on Angular, JavaScript, Typescript, HTML, CSS. I have good analytical skills and I am recognized as a great problem solver within my project team. Looking forward to contribute to the Dev community as much as I can.</h3>
